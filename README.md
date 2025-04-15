@@ -21,6 +21,15 @@ AI.Q.Low does two very simple things:
 * It will judge you if you visit any of the recognized AI websites.
 * It will delete the body of those websites once you accept the judgment.
 
+## Screenshots
+
+![AI.Q.Low ChatGPT](./resources/aiqlow_chatgpt_01.png)
+![AI.Q.Low ChatGPT](./resources/aiqlow_chatgpt_02.png)
+![AI.Q.Low Perplexity](./resources/aiqlow_perplexity_01.png)
+![AI.Q.Low Perplexity](./resources/aiqlow_perplexity_02.png)
+![AI.Q.Low DeepSeek](./resources/aiqlow_deepseek_01.png)
+![AI.Q.Low DeepSeek](./resources/aiqlow_deepseek_02.png)
+
 ## List of recognized AI websites (as of v0.1.0)
 
 * Claude
