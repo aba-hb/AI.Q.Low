@@ -1,0 +1,25 @@
+
+
+{
+  "manifest_version": 3,
+  "name": "AI.Q.Low",
+  "version": "0.1.0",
+  "description": "Providing a terrible user experience for AI websites.",
+  "permissions": [],
+  "content_scripts": [
+    {
+      "matches": [
+        "https://*.claude.ai/*",
+        "https://*.chatgpt.com/*",
+        "https://*.gemini.google.com/*",
+        "https://*.copilot.microsoft.com/*",
+        "https://*.perplexity.ai/*",
+        "https://*.deepseek.com/*"
+      ],
+      "js": [
+        "content.js" 
+      ]
+    }
+  ]
+}
+
