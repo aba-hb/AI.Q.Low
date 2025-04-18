@@ -79,6 +79,11 @@ AI.Q.Low is licensed under the [MIT License](./LICENSE.md).
 
 This **will** prevent you from using any of the AI websites specified in the [manifest.json](./manifest.json) (see `matches`) file after enabling the browser extension. You can either disable it the same way you enabled it, or you can close the browser window and open up a new one.
 
+---
+
+> AI helped creating this *README*, fixing my phrasing, casing and punctuation.
+As written previously, this is a Joke, while AI feels questionable to some people, we all should try keeping track with modern standards.
+
 <!-- Thank you for checking out AI.Q.Low! -->
 <!-- Although it's purely a joke, this is my very first public repository. and quite some effort went into creating this README -->
 <!-- Having someone actually investigate the files means a lot to me. -->
